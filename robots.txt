@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-dced1w.privatetalks.online/sitemap.xml
